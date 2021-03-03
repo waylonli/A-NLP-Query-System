@@ -12,11 +12,11 @@ Example:
 ```
 python2 semantics.py 
      
-$$ LXY loves LWX.
+$$ AAA loves BBB.
      OK.
-$$ Who loves LWX?
-     LXY  
-$$ Who does LXY love?
-     LWX  
+$$ Who loves BBB?
+     AAA  
+$$ Who does AAA love?
+     BBB  
 
 ```
